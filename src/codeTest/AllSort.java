@@ -1,5 +1,6 @@
 package codeTest;
 
+
 public class AllSort {
 
     public static void main(String[] args) {
